@@ -1,2 +1,81 @@
-# Hello_World_Python
-This is my first Assignment.
+# Hello_World_Python with 5 d/f Methods
+HELLO WORLD PYTHON
+* HELLO WORLD with Console:
+
+                              #Start Menu -> CMD/Anaconda prompt (open)#
+>Python
+>>>print("Hello World")
+Hello World
+>>> print("I am Irtiqa Ur Rehman Khan")
+I am Irtiqa Ur Rehman Khan
+>>> print("I have started PGD Data Science with AI from NED_UET. This is my first Assignment.")
+I have started PGD Data Science with AI from NED_UET. This is my first Assignment.
+>>> print(9-5)
+4
+>>> print(5*2)
+10
+>>> print(8/2)
+4.0
+>>> print(9/2)
+4.5
+>>> print(9%2)
+1
+>>> print(10//2)
+5
+>>> print(3**2/2*3/3+6-4)
+6.5
+ 
+
+
+
+
+* HELLO WORLD with VSCode:
+
+                            ##Open VSCode -> Create File with .py Extention##
+
+print("Hello World")
+print("I am Irtiqa Ur Rehman Khan")
+print("I have started PGD Data Science with AI from NED_UET. This is my first Assignment.")
+ 
+                                         #Press Run Button#
+
+Hello World
+I am Irtiqa Ur Rehman Khan
+I have started PGD Data Science with AI from NED_UET. This is my first Assignment.
+
+
+
+
+
+
+
+* HELLO WORLD with Jupyter Notebook:
+
+                 ##Anaconda Navigator (Open) -> jupyter notebook (click on launch) -> Create file## 
+Type codes:
+print("Hello World")
+print("I am Irtiqa Ur Rehman Khan")
+print("I have started PGD Data Science with AI from NED_UET. This is my first Assignment.")
+
+                                   #Press Run Button or Ctrl+Enter.#
+
+Hello World
+I am Irtiqa Ur Rehman Khan
+I have started PGD Data Science with AI from NED_UET. This is my first Assignment.
+
+
+
+
+* HELLO WORLD with Google Colab:
+
+                            ##Open "Google Colab" -> Open "Note Book" -> write codes## 
+
+print("Hello World")
+print("I am Irtiqa Ur Rehman Khan")
+print("I have started PGD Data Science with AI from NED_UET. This is my first Assignment.")
+
+                                  #Press Run Button or Ctrl+Enter#
+
+Hello World
+I am Irtiqa Ur Rehman Khan
+I have started PGD Data Science with AI from NED_UET. This is my first Assignment.
